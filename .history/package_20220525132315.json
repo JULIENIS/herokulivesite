@@ -1,0 +1,12 @@
+{
+  "name": "comp229-m2022-lesson3",
+  "version": "0.0.1",
+  "description": "Demo project for comp 229 in the summer 2022",
+  "main": "server.js",
+  "author": "jule brinez",
+  "license": "MIT",
+  "dependencies": {
+    "mime": "^3.0.0",
+    "types": "^0.1.1"
+  }
+}
